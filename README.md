@@ -9,3 +9,7 @@ My name is Isabela, I just started using GitHub, I am learning so:
 3. I can work with other people
 --- 
 Bye. 
+---
+### here is the link to the **Markdown Cheat Sheet** *use it wisely*
+https://www.markdownguide.org/cheat-sheet/
+--- 
